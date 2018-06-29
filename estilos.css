@@ -1,0 +1,86 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	width:100%;
+	background-image: url(img/Fondo.jpg);
+	background-repeat: no-repeat;
+
+	}
+header{
+	width:100%;
+	}
+
+.navbar{
+margin-bottom:0px;	
+	
+}
+.h1{
+	text-align:center;
+	}
+	
+.titulo{
+	padding:10px;
+	font-family: 'Handlee', cursive;	
+	}
+	
+.titulo2{
+	padding:10px;
+	font-family: 'Handlee', cursive;	
+	font-size:20px;
+	}
+	
+.p1{
+	padding:10px;
+	font-family: 'Handlee', cursive;	
+	text-align:justify;	
+	}
+	
+.p2{
+	width: 90%;
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: center;
+	font-family: 'Handlee', cursive;	
+	color: #F0F4F8;
+	font-size: 1.rem;
+	font-size: 1.5rem;
+	}
+	
+.p3{
+	width: 90%;
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: center;
+	font-family: 'Handlee', cursive;		color: rgba(0,0,0,1.00);
+	font-size: 1.rem;
+	font-size: 1.5rem;
+	}
+		
+.container{
+	width:100%;
+	}
+	
+.section{
+	align-content:center;
+	
+	}
+	
+div.background {
+    background: url(klematis.jpg) repeat;
+	border-radius:10px;
+   }
+
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    opacity: 0.6;
+	border-radius:10px;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+}
